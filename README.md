@@ -59,9 +59,9 @@ To create a **machine learning model** that can predict prediction.
 - Imported the **TensorFlow** library to directly train the model using its inbuilt functions.
 - Trained the model first.
 - Created a **Sequential model** which has a series of neural layers.
-- The **layers** created were of **Dense** type and the number of units (neurons) were controlled by passing the unit variable value to the **Dense function**.
+  - The **layers** created were of **Dense** type and the number of units (neurons) were controlled by passing the unit variable value to the **Dense function**.
 - The **activation functions** are used to create **non-linearity** in the neural network models which allows the building of efficient, optimized, and accurate models.
-- **Relu activation** was used for hidden layers and **sigmoid activation** for the output layer.
+  - **Relu activation** was used for hidden layers and **sigmoid activation** for the output layer.
 - Compiled the model using the **Binary Crossentropy loss function** which measures the difference between the predicted binary outcomes and actual binary labels.
 - Used the **Adam optimizer**, which is an iterative optimization algorithm. It minimizes the loss function white training the neural network.
 - Calculated the **loss, accuracy score, and ROC-AUC score** for this model.
