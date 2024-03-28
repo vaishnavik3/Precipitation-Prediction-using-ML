@@ -1,7 +1,7 @@
 # Precipitation Prediction using ML
 ### Precipitation prediction using ML by creating various models and checking their accuracies and efficiencies.
 ### Aim: 
-To create a **machine learning model** that can predict prediction.
+To create a **machine learning model** that can predict precipitation.
 
 ### Dataset:
 - The precipitation column in the given dataset was our target feature in this project.
